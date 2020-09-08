@@ -1,3 +1,10 @@
+html {
+    margin: auto;
+    width: 60%;
+    border: 5px solid hsl(323, 100%, 50%);
+    padding: 10px;
+}
+
 body {
     margin: 5;
     font-family: Times;
@@ -18,8 +25,11 @@ header {
 h1 {
     margin: 5;
     font-family: Times;
-    font-size: 35px;
-    text-decoration: underline;
+    font-size: 25px;
+    border: 4mm ridge;
+    border-color: darkmagenta;
+    border-width: medium;
+
 }
 
 article {
