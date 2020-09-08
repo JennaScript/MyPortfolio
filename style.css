@@ -27,7 +27,8 @@ h1 {
     margin: 5;
     font-family: Times;
     font-size: 25px;
-    border: 4mm ridge;
+    border: 4mm;
+    border-style: dotted;
     border-color: darkmagenta;
     border-width: medium;
 
