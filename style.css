@@ -17,7 +17,7 @@ body {
 header {
     margin: 5;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
-    font-size: 15px;
+    font-size: 17px;
     background-color: pink;
     color: black;
     padding: 5px; 
@@ -36,13 +36,14 @@ h1 {
 article {
     margin: 5;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
     color: black;
 }
 
 ul {
     margin: 5;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 15px;
+    font-size: 18px;
     color: purple;
 }
 
